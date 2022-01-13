@@ -12,7 +12,7 @@ Repositório para exercícios realizados em Kotlin para aprender a usar o Androi
 
 ## Unidade 2
 
-| [Calcular gorjeta](https://github.com/PauloUbirajara/Kotlin-Google-Tutorial/tree/tip-calculator) |
-| --------------------- |
-| <img src='https://developer.android.com/codelabs/basic-android-kotlin-training-tip-calculator/img/966018df4a149822.png?authuser=1' width=300 height=500 /> |
+| [Calcular gorjeta](https://github.com/PauloUbirajara/Kotlin-Google-Tutorial/tree/tip-calculator) | [Calcular gorjeta + Material Design](https://github.com/PauloUbirajara/Kotlin-Google-Tutorial/tree/tip-calculator-improved) 
+| --------------------- | --------------------- |
+| <img src='https://developer.android.com/codelabs/basic-android-kotlin-training-tip-calculator/img/966018df4a149822.png' width=300 height=500 /> | <img src='https://developer.android.com/codelabs/basic-android-kotlin-training-polished-user-experience/img/5743ac5ee2493d7.png' width=300 height=500 /> |
 
