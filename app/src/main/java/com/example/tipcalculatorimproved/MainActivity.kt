@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getCost(): Double {
-        val stringInTextField = binding.costOfService.text.toString()
+        val stringInTextField = binding.costOfServiceEditText.text.toString()
         var cost = stringInTextField.toDoubleOrNull()
 
         if (cost == null) cost = 0.0
