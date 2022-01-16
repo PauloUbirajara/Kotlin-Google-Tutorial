@@ -1,4 +1,4 @@
-package com.example.tipcalculatorimproved
+package com.example.affirmationsapp
 
 import org.junit.Test
 
